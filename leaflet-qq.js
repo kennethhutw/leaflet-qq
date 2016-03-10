@@ -1,5 +1,8 @@
 /*
  * L.TileLayer is used for standard xyz-numbered tile layers.
+ * Author: Hu Chia Wei
+ * Date: 2016.3.10
+ * Email: Kenneth.hu@hotmail.com
  */
  L.qq = L.Class.extend({
 	includes: L.Mixin.Events,
