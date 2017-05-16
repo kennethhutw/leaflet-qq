@@ -1,6 +1,8 @@
 # leaflet-qq
 Leaflet plugin that enables the use of QQ Map tiles
 
+![Image](https://raw.githubusercontent.com/kennethhutw/leaflet-qq/master/demo.gif)
+
 ## Usage
 
 ` var map = L.map('container');
